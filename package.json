@@ -39,11 +39,13 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "main": "gatsby-browser.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "git+https://github.com/spences10/gatsby-starter-styled-components.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+    "url": "https://github.com/spences10/gatsby-starter-styled-components/issues"
+  },
+  "homepage": "https://github.com/spences10/gatsby-starter-styled-components#readme"
 }
