@@ -5,6 +5,6 @@
     // Prettier for auto formatting code
     "esbenp.prettier-vscode",
     // Syntax highlighting for styled-components
-    "poissonnier.vscode-styled-components"
+    "jpoissonnier.vscode-styled-components"
   ]
 }
