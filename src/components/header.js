@@ -1,7 +1,7 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
-import React from "react"
-import { H1 } from "./page-elements"
+import { Link } from 'gatsby'
+import PropTypes from 'prop-types'
+import React from 'react'
+import { H1 } from './page-elements'
 
 const Header = ({ siteTitle }) => (
   <header

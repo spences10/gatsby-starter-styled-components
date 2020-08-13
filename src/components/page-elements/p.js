@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
 export const P = styled.p`
   margin-top: ${({ theme }) => theme.spacing[3]};

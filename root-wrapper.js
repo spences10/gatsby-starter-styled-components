@@ -1,7 +1,7 @@
-import React from "react"
-import { ThemeProvider } from "styled-components"
-import Layout from "./src/components/layout"
-import { GlobalStyle, theme } from "./src/theme/global-style"
+import React from 'react'
+import { ThemeProvider } from 'styled-components'
+import Layout from './src/components/layout'
+import { GlobalStyle, theme } from './src/theme/global-style'
 
 export const wrapPageElement = ({ element }) => (
   <ThemeProvider theme={theme}>
