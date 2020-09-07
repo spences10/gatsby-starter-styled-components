@@ -21,7 +21,7 @@
     "react-dom": "16.13.1",
     "react-helmet": "6.1.0",
     "styled-components": "5.2.0",
-    "styled-reset": "4.2.2"
+    "styled-reset": "4.2.3"
   },
   "devDependencies": {
     "husky": "4.2.5",
