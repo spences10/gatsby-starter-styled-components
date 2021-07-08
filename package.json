@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Scott Spence <yo@scottspence.dev>",
   "dependencies": {
-    "babel-plugin-styled-components": "1.13.1",
+    "babel-plugin-styled-components": "1.13.2",
     "gatsby": "3.9.0",
     "gatsby-image": "3.9.0",
     "gatsby-plugin-google-fonts": "1.0.1",
